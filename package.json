@@ -4,6 +4,7 @@
   "description": "My solutions to the https://adventofcode.com/2021 challenges",
   "main": "day1.1.js",
   "scripts": {
+    "day1.1": "node day1.1.js",
     "day2.1": "node day2.1.js",
     "day2.2": "node day2.2.js",
     "day3.1": "node day3.1.js",
