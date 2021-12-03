@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "My solutions to the https://adventofcode.com/2021 challenges",
+  "main": "day1.1.js",
+  "scripts": {
+    "day2.1": "node day2.1.js",
+    "day2.2": "node day2.2.js",
+    "day3.1": "node day3.1.js",
+    "day3.2": "node day3.2.js"
+  },
+  "author": "swent",
+  "license": "GPLv3"
+}
